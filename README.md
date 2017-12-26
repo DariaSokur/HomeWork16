@@ -6,10 +6,10 @@ How to use
 
 You should enter 4 values:
 
-var male = true (if your patient is a man) or false (if your patient is a woman)
+var male = true (if your patient is a man) or false (if your patient is a woman);
 
-var raceBlack = true (if your patient is black) or false (if your patient is white, Asian etc)
+var raceBlack = true (if your patient is black) or false (if your patient is white, Asian etc);
 
-var age = your parient's age
+var age = your parient's age;
 
-var creatinine = value of serum creatinine in mg/dL (from biochemical blood test)
+var creatinine = value of serum creatinine in mg/dL (from biochemical blood test);
